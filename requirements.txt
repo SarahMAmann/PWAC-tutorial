@@ -1,2 +1,2 @@
 SpeechRecognition==3.8.1
-st-audiorec==0.3.0
+st-audiorec==0.1.3
