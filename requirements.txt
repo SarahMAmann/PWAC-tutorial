@@ -1,2 +1,2 @@
 SpeechRecognition==3.8.1
-st-audiorec
+st_audiorec
