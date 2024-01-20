@@ -7,4 +7,7 @@
 Deployed app: https://sarahmamann-pwac-tutorial-streamlit-app-kawpxv.streamlit.app/ \
 Working CSV data spreadsheet example can be found here: https://docs.google.com/spreadsheets/d/17FzDZF97AEfPCsFSIsffJJcME_TcXoq8_5g2Fx6nobI/edit?usp=sharing
 
+To test the app, upload the example CSV file (or any two-column CSV with the columns named "X Axis" and "Y Axis"), hit the record button and speak a command like "show me this data as a line chart."
+In the current state, line charts, bar charts and bubble/pie charts are supported, but you can add as many chart types to the code as you would like!
+
 To run the project locally: `streamlit run streamlit_app.py`
